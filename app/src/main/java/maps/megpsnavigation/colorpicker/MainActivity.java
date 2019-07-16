@@ -14,6 +14,8 @@ import com.larswerkman.holocolorpicker.ValueBar;
 
 public class MainActivity extends AppCompatActivity {
 int initialColor;
+
+int x=10;
     ConstraintLayout constraintLayout;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
